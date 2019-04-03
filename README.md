@@ -1,4 +1,6 @@
-# Testing 1, 2, 3
+# Testing 4, 5, 6
+
+[![Build Status](https://travis-ci.com/s2t2/testing-456-py.svg?branch=master)](https://travis-ci.com/s2t2/testing-456-py)
 
 Setup:
 
